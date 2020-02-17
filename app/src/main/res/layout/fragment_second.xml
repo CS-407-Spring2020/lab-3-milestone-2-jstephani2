@@ -22,7 +22,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:background="@color/green"
-        android:text="First Fragment"
+        android:text="Second Fragment"
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold"/>
